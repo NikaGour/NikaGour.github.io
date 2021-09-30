@@ -74,7 +74,9 @@ html {
 .icons-social i {
 	background: transparent;
 }
-
+.icons-social i:hover{
+	transform: scale(1.5); }
+	
 .icons-social:after i {
 	z-index: -1;
     content: '';
